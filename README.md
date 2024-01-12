@@ -32,7 +32,7 @@ Welcome to SpecificGPT, a powerful application that harnesses the magic of Retri
 
 3. **Run the Application:**
    ```bash
-   python app.py
+   streamlit run app.py
    ```
 
    Open your browser and go to [http://localhost:8501](http://localhost:8501) to explore SpecificGPT!
